@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342552572755",
+    "project_id": "stock-ease-3f322",
+    "storage_bucket": "stock-ease-3f322.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342552572755:android:e561a1cf44525691c1a7a6",
+        "android_client_info": {
+          "package_name": "com.example.stock_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSI4w0Phc2Ab2OF1RPbksT0H6oJShZM1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

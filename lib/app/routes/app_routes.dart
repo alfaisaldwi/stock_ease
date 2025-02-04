@@ -1,12 +1,17 @@
 part of 'app_pages.dart';
-// DO NOT EDIT. This is code generated via package:get_cli/get_cli.dart
 
 abstract class Routes {
-  Routes._();
-  static const HOME = _Paths.HOME;
+  static const HOME = '/';
+  static const LOGIN = '/login';
+  static const REGISTER = '/register';
+  static const ADD_PRODUCT = '/add-product';
+  static const EDIT_PRODUCT = '/edit-product';
+  static const SPLASH = '/splash';
 }
 
 abstract class _Paths {
   _Paths._();
   static const HOME = '/home';
+  static const AUTH = '/auth';
+  static const PRODUCT = '/product';
 }
