@@ -11,7 +11,7 @@ class CardWidget extends StatelessWidget {
   final AuthController authController = Get.find();
   final TextEditingController identifierController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
-  var stayLoggedIn = false.obs; // Tambahkan variabel untuk ceklis
+  var stayLoggedIn = false.obs; 
 
   @override
   Widget build(BuildContext context) {

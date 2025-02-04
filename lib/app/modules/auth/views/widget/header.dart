@@ -1,6 +1,5 @@
 import 'package:dotted_line/dotted_line.dart';
 import 'package:flutter/material.dart';
-import 'package:stock_ease/app/modules/auth/views/widget/term.dart';
 import 'package:stock_ease/app/theme/color.dart';
 
 class HeaderWidget extends StatelessWidget {
